@@ -1,0 +1,87 @@
+{
+'P1222':
+    {'xy_canon':
+        {'alm.drawing':
+            {
+             'layer': 'ALM', # THis is what we can infer from the lpp being used
+             'cell_size': (60 60), # This info comes from StartLayoutAssembler
+             'args_1': {'cv.cvid': 'cv', 
+                        'lpp.lpp': 'alm.drawing', 
+                        'xy_cds.points': (1.6 1.6), 
+                        'xy_lengths.points': (25 25), 
+                        'xy_distance.points':(28.4 28.4), 
+                        'stepping.list':((5)), 
+                        'shift.float': None},
+             'args_2': {'cv.cvid': 'cv', 
+                        'lpp.lpp': 'alm.drawing', 
+                        'xy_cds.points': (1.8 1.8), 
+                        'xy_lengths.points': (25 25), 
+                        'xy_distance.points':(28.4 28.4), 
+                        'stepping.list':((5)), 
+                        'shift.float': None},
+            }
+        'gv1.drawing':
+            {
+             'layer': 'GV1', # THis is what we can infer from the lpp being used
+             'cell_size': (60 60), # This info comes from StartLayoutAssembler
+             'args_1': {'cv.cvid': 'cv', 
+                        'lpp.lpp': 'alm.drawing', 
+                        'xy_cds.points': (1.6 1.6), 
+                        'xy_lengths.points': (25 25), 
+                        'xy_distance.points':(28.4 28.4), 
+                        'stepping.list':((5)), 
+                        'shift.float': None},
+             'args_2': {'cv.cvid': 'cv', 
+                        'lpp.lpp': 'alm.drawing', 
+                        'xy_cds.points': (1.8 1.8), 
+                        'xy_lengths.points': (25 25), 
+                        'xy_distance.points':(28.4 28.4), 
+                        'stepping.list':((5)), 
+                        'shift.float': None}
+            }
+        }
+    },
+
+'P1276':
+    {'xy_canon':
+        {'mph.drawing':
+            {
+             'layer': 'MPH', # THis is what we can infer from the lpp being used
+             'cell_size': (63 63), # This info comes from StartLayoutAssembler
+             'args_1': {'cv.cvid': 'cv', 
+                        'lpp.lpp': 'alm.drawing', 
+                        'xy_cds.points': (1.6 1.6), 
+                        'xy_lengths.points': (25 25), 
+                        'xy_distance.points':(28.4 28.4), 
+                        'stepping.list':((5)), 
+                        'shift.float': None},
+             'args_2': {'cv.cvid': 'cv', 
+                        'lpp.lpp': 'alm.drawing', 
+                        'xy_cds.points': (1.8 1.8), 
+                        'xy_lengths.points': (25 25), 
+                        'xy_distance.points':(28.4 28.4), 
+                        'stepping.list':((5)), 
+                        'shift.float': None},
+            }
+        'm18.drawing':
+            {
+             'layer': 'M18', # THis is what we can infer from the lpp being used
+             'cell_size': (63 63), # This info comes from StartLayoutAssembler
+             'args_1': {'cv.cvid': 'cv', 
+                        'lpp.lpp': 'alm.drawing', 
+                        'xy_cds.points': (1.6 1.6), 
+                        'xy_lengths.points': (25 25), 
+                        'xy_distance.points':(28.4 28.4), 
+                        'stepping.list':((5)), 
+                        'shift.float': None},
+             'args_2': {'cv.cvid': 'cv', 
+                        'lpp.lpp': 'alm.drawing', 
+                        'xy_cds.points': (1.8 1.8), 
+                        'xy_lengths.points': (25 25), 
+                        'xy_distance.points':(28.4 28.4), 
+                        'stepping.list':((5)), 
+                        'shift.float': None}
+            }
+        }
+    }    
+}
