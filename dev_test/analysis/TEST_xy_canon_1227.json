@@ -1,0 +1,447 @@
+{
+    "1227": {
+        "xy_canon": {
+            "SIV_mask.drawing": {
+                "layer": "SIV_MASK",
+                "cell_size": "(61.74 63.72)",
+                "args": [],
+                "args0": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "SIV_mask.drawing",
+                    "xy_cds.points": "(1.6 1.6)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(28.4 28.4)",
+                    "stepping.list": "((5))",
+                    "shift.float": ""
+                },
+                "args1": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "SIV_mask.drawing",
+                    "xy_cds.points": "(1.8 1.8)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(28.2 28.2)",
+                    "stepping.list": "((5))",
+                    "shift.float": ""
+                },
+                "args2": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "SIV_mask.drawing",
+                    "xy_cds.points": "(2 2)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(28 28)",
+                    "stepping.list": "((5))",
+                    "shift.float": ""
+                },
+                "args3": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "SIV_mask.drawing",
+                    "xy_cds.points": "(1.6 1.6)",
+                    "xy_lengths.points": "(61.74 63.72)",
+                    "xy_distance.points": "(28.4 28.4)",
+                    "stepping.list": "((5))",
+                    "shift.float": ""
+                },
+                "args4": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "SIV_mask.drawing",
+                    "xy_cds.points": "(2 2)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(28 28)",
+                    "stepping.list": "((5))",
+                    "shift.float": 0.5
+                },
+                "args5": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "SIV_mask.drawing",
+                    "xy_cds.points": "(2.2 2.2)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(27.8 27.8)",
+                    "stepping.list": "((5))",
+                    "shift.float": 0.5
+                },
+                "args6": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "SIV_mask.drawing",
+                    "xy_cds.points": "(2.4 2.4)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(27.6 27.6)",
+                    "stepping.list": "((5))",
+                    "shift.float": 0.5
+                },
+                "args7": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "SIV_mask.drawing",
+                    "xy_cds.points": "(1.6 1.6)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(28.4 28.4)",
+                    "stepping.list": "((5))",
+                    "shift.float": ""
+                },
+                "args8": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "SIV_mask.drawing",
+                    "xy_cds.points": "(1.8 1.8)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(28.2 28.2)",
+                    "stepping.list": "((5))",
+                    "shift.float": ""
+                },
+                "args9": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "SIV_mask.drawing",
+                    "xy_cds.points": "(2 2)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(28 28)",
+                    "stepping.list": "((5))",
+                    "shift.float": ""
+                },
+                "args10": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "SIV_mask.drawing",
+                    "xy_cds.points": "(1.6 1.6)",
+                    "xy_lengths.points": "(61.74 63.72)",
+                    "xy_distance.points": "(28.4 28.4)",
+                    "stepping.list": "((5))",
+                    "shift.float": ""
+                },
+                "args11": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "SIV_mask.drawing",
+                    "xy_cds.points": "(1.6 1.6)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(28.4 28.4)",
+                    "stepping.list": "((5))",
+                    "shift.float": ""
+                },
+                "args12": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "SIV_mask.drawing",
+                    "xy_cds.points": "(1.8 1.8)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(28.2 28.2)",
+                    "stepping.list": "((5))",
+                    "shift.float": ""
+                },
+                "args13": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "SIV_mask.drawing",
+                    "xy_cds.points": "(2 2)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(28 28)",
+                    "stepping.list": "((5))",
+                    "shift.float": ""
+                },
+                "args14": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "SIV_mask.drawing",
+                    "xy_cds.points": "(1.6 1.6)",
+                    "xy_lengths.points": "(61.74 63.72)",
+                    "xy_distance.points": "(28.4 28.4)",
+                    "stepping.list": "((5))",
+                    "shift.float": ""
+                },
+                "args15": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "SIV_mask.drawing",
+                    "xy_cds.points": "(1.6 1.6)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(28.4 28.4)",
+                    "stepping.list": "((5))",
+                    "shift.float": ""
+                },
+                "args16": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "SIV_mask.drawing",
+                    "xy_cds.points": "(1.8 1.8)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(28.2 28.2)",
+                    "stepping.list": "((5))",
+                    "shift.float": ""
+                },
+                "args17": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "SIV_mask.drawing",
+                    "xy_cds.points": "(2 2)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(28 28)",
+                    "stepping.list": "((5))",
+                    "shift.float": ""
+                },
+                "args18": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "SIV_mask.drawing",
+                    "xy_cds.points": "(1.6 1.6)",
+                    "xy_lengths.points": "(61.74 63.72)",
+                    "xy_distance.points": "(28.4 28.4)",
+                    "stepping.list": "((5))",
+                    "shift.float": ""
+                }
+            },
+            "JM2_mask.drawing": {
+                "layer": "JM2_MASK",
+                "cell_size": "(61.74 63.72)",
+                "args": [],
+                "args0": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "JM2_mask.drawing",
+                    "xy_cds.points": "(2 2)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(28 28)",
+                    "stepping.list": "((5))",
+                    "shift.float": 0.5
+                },
+                "args1": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "JM2_mask.drawing",
+                    "xy_cds.points": "(2.2 2.2)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(27.8 27.8)",
+                    "stepping.list": "((5))",
+                    "shift.float": 0.5
+                },
+                "args2": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "JM2_mask.drawing",
+                    "xy_cds.points": "(2.4 2.4)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(27.6 27.6)",
+                    "stepping.list": "((5))",
+                    "shift.float": 0.5
+                }
+            },
+            "JM5_mask.drawing": {
+                "layer": "JM5_MASK",
+                "cell_size": "(61.74 63.72)",
+                "args": [],
+                "args0": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "JM5_mask.drawing",
+                    "xy_cds.points": "(2 2)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(28 28)",
+                    "stepping.list": "((5))",
+                    "shift.float": 0.5
+                },
+                "args1": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "JM5_mask.drawing",
+                    "xy_cds.points": "(2.2 2.2)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(27.8 27.8)",
+                    "stepping.list": "((5))",
+                    "shift.float": 0.5
+                },
+                "args2": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "JM5_mask.drawing",
+                    "xy_cds.points": "(2.4 2.4)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(27.6 27.6)",
+                    "stepping.list": "((5))",
+                    "shift.float": 0.5
+                }
+            },
+            "PSV_mask.frameCutout": {
+                "layer": "PSV_MASK",
+                "cell_size": "(61.74 63.72)",
+                "args": [],
+                "args0": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "PSV_mask.frameCutout",
+                    "xy_cds.points": "(8 8)",
+                    "xy_lengths.points": "(24 24)",
+                    "xy_distance.points": "(8 8)",
+                    "stepping.list": "((16))",
+                    "shift.float": ""
+                }
+            },
+            "or2.tccDebug": {
+                "layer": "OR2",
+                "cell_size": "(61.74 63.72)",
+                "args": [],
+                "args0": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "or2.tccDebug",
+                    "xy_cds.points": "(1.6 1.6)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(28.4 28.4)",
+                    "stepping.list": "((5))",
+                    "shift.float": ""
+                },
+                "args1": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "or2.tccDebug",
+                    "xy_cds.points": "(1.8 1.8)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(28.2 28.2)",
+                    "stepping.list": "((5))",
+                    "shift.float": ""
+                },
+                "args2": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "or2.tccDebug",
+                    "xy_cds.points": "(2 2)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(28 28)",
+                    "stepping.list": "((5))",
+                    "shift.float": ""
+                },
+                "args3": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "or2.tccDebug",
+                    "xy_cds.points": "(1.6 1.6)",
+                    "xy_lengths.points": "(61.74 63.72)",
+                    "xy_distance.points": "(28.4 28.4)",
+                    "stepping.list": "((5))",
+                    "shift.float": ""
+                }
+            },
+            "GMB.frameDrawing": {
+                "layer": "GMB",
+                "cell_size": "(61.74 63.72)",
+                "args": [],
+                "args0": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "GMB.frameDrawing",
+                    "xy_cds.points": "(2 2)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(28 28)",
+                    "stepping.list": "((5))",
+                    "shift.float": 0.5
+                },
+                "args1": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "GMB.frameDrawing",
+                    "xy_cds.points": "(2.2 2.2)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(27.8 27.8)",
+                    "stepping.list": "((5))",
+                    "shift.float": 0.5
+                },
+                "args2": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "GMB.frameDrawing",
+                    "xy_cds.points": "(2.4 2.4)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(27.6 27.6)",
+                    "stepping.list": "((5))",
+                    "shift.float": 0.5
+                }
+            },
+            "siv.drawing": {
+                "layer": "SIV",
+                "cell_size": "(61.74 63.72)",
+                "args": [],
+                "args0": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "siv.drawing",
+                    "xy_cds.points": "(2 2)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(28 28)",
+                    "stepping.list": "((5))",
+                    "shift.float": 0.5
+                },
+                "args1": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "siv.drawing",
+                    "xy_cds.points": "(2.2 2.2)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(27.8 27.8)",
+                    "stepping.list": "((5))",
+                    "shift.float": 0.5
+                },
+                "args2": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "siv.drawing",
+                    "xy_cds.points": "(2.4 2.4)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(27.6 27.6)",
+                    "stepping.list": "((5))",
+                    "shift.float": 0.5
+                }
+            },
+            "GMS.frameDrawing": {
+                "layer": "GMS",
+                "cell_size": "(61.74 63.72)",
+                "args": [],
+                "args0": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "GMS.frameDrawing",
+                    "xy_cds.points": "(1.6 1.6)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(28.4 28.4)",
+                    "stepping.list": "((5))",
+                    "shift.float": ""
+                },
+                "args1": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "GMS.frameDrawing",
+                    "xy_cds.points": "(1.8 1.8)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(28.2 28.2)",
+                    "stepping.list": "((5))",
+                    "shift.float": ""
+                },
+                "args2": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "GMS.frameDrawing",
+                    "xy_cds.points": "(2 2)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(28 28)",
+                    "stepping.list": "((5))",
+                    "shift.float": ""
+                },
+                "args3": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "GMS.frameDrawing",
+                    "xy_cds.points": "(1.6 1.6)",
+                    "xy_lengths.points": "(61.74 63.72)",
+                    "xy_distance.points": "(28.4 28.4)",
+                    "stepping.list": "((5))",
+                    "shift.float": ""
+                },
+                "args4": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "GMS.frameDrawing",
+                    "xy_cds.points": "(2 2)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(28 28)",
+                    "stepping.list": "((5))",
+                    "shift.float": 0.5
+                },
+                "args5": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "GMS.frameDrawing",
+                    "xy_cds.points": "(2.2 2.2)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(27.8 27.8)",
+                    "stepping.list": "((5))",
+                    "shift.float": 0.5
+                },
+                "args6": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "GMS.frameDrawing",
+                    "xy_cds.points": "(2.4 2.4)",
+                    "xy_lengths.points": "(25 25)",
+                    "xy_distance.points": "(27.6 27.6)",
+                    "stepping.list": "((5))",
+                    "shift.float": 0.5
+                }
+            },
+            "psm.drawing": {
+                "layer": "PSM",
+                "cell_size": "(61.74 63.72)",
+                "args": [],
+                "args0": {
+                    "cv.cvid": "cv",
+                    "lpp.lpp": "psm.drawing",
+                    "xy_cds.points": "(4 4)",
+                    "xy_lengths.points": "(34 34)",
+                    "xy_distance.points": "(26 26)",
+                    "stepping.list": "((11))",
+                    "shift.float": ""
+                }
+            }
+        }
+    }
+}
